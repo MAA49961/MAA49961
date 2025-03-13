@@ -9,8 +9,7 @@
 
 🏢 I'm a Hardware Engineer at Siemens, specializing in electrical engineering and automation.  
 👨‍💻 With 7 years of experience, I am passionate about creating and optimizing hardware systems, and I'm diving into software development to enhance my skills.  
-💬 Ask me about my experience with Siemens systems, electrical design, and EPLAN scripting.  
-⚡ Fun Fact: I'm a coffee enthusiast, and my ideal day starts and ends with a cup of coffee.
+💬 Ask me about my experience with EPLAN-Products, electrical design, and EPLAN scripting.  
 
 
 
